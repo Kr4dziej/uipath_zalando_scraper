@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Firefox UiPath Beginners Course 2023 - For RP",
+  "Type": "Screen",
+  "Id": "9QbtTEEpNkeGmJ6gUzN4gQ",
+  "Reference": "SDodu7ecRkSmjJSqHGi_SA/9QbtTEEpNkeGmJ6gUzN4gQ",
+  "ParentRef": "SDodu7ecRkSmjJSqHGi_SA/nKztwTc2T0u-yL6lbw8Mtw",
+  "Created": "2025-04-13T12:20:21.4309406Z",
+  "Updated": "2025-04-13T12:20:21.4309406Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

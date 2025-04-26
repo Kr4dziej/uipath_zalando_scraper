@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="at4LjlRnT0-XNvxp7hWaCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zalando.pl" CVScreenId="e74471b0-3889-41b4-bcb9-a17d52bb9688" CvElementArea="1394, 264, 317, 57" CvType="InputBox" DesignTimeRectangle="1452, 269, 245, 50" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='header-search-input' tag='INPUT' type='text' class='E7c9Sg oosgvo voFjEy _2kjxJ6 m3OCL3 bsVOrE mo6ZnF dUMFv9 K82if3 LyRfpJ HlZ_Tf NN8L-8 _3laWWw Vn-7c-' placeholder='Szukaj' aaname='' /&gt;" Guid="6bbe4bc6-e6a4-423d-81d4-ff00a2314b40" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='{&amp;quot;zlnd_t_tid&amp;quot;:&amp;quot;XSJBCrCuD-F-nZNmm7R65&amp;quot;}' title='Buty i odzież online na Zalando. Moda damska, męska i dziecięca' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b92bef05277eaa0fc6aaed76e140f0e4.png" xmlns="">0liPVV5G82UuwlGFhvzM3gg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

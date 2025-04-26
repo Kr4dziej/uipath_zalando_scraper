@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox UiPath Beginners Course 2023 - For RPA Developers  andersjensenorg — Mozilla F",
+  "Type": "App",
+  "Id": "vmV1dJbNaUGcA_vg_xvr6Q",
+  "Reference": "SDodu7ecRkSmjJSqHGi_SA/vmV1dJbNaUGcA_vg_xvr6Q",
+  "Created": "2025-04-13T12:20:21.3860388Z",
+  "Updated": "2025-04-13T12:20:21.3860388Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

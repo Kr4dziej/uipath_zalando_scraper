@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DYntxz0Je0yLtIZTsdnDTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="a3b9daf8-b367-456f-add1-ce8bd7a3598f" CvElementArea="111, 462, 96, 66" CvTextArea="153, 486, 13, 20" CvTextArgument="5" CvType="Button" DesignTimeRectangle="111, 465, 96, 63" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='NumberPad' cls='NamedContainerAutomationPeer' name='Klawiatura numeryczna' /&gt;&lt;uia automationid='num5Button' cls='Button' name='Pięć' /&gt;" FuzzySelectorArgument="&lt;uia cls='LandmarkTarget' /&gt;&lt;uia automationid='NumberPad' cls='NamedContainerAutomationPeer' name='Klawiatura numeryczna' /&gt;&lt;uia automationid='num5Button' cls='Button' name='Pięć' role='przycisk' check:fulltext='5' /&gt;" Guid="a40f2fd8-cc92-4c60-a256-c7cc2a58d580" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' title='Kalkulator' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="055bfe22f9b6a9956fba629c3c9afddf.png" xmlns="">0sYSOaZR_lkWb_5P8mhTqsg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

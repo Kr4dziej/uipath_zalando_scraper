@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome JD Sports Global",
+  "Type": "App",
+  "Id": "PySzkWILgEO_PRKs5ewNtw",
+  "Reference": "SDodu7ecRkSmjJSqHGi_SA/PySzkWILgEO_PRKs5ewNtw",
+  "Created": "2025-04-13T12:18:35.0371414Z",
+  "Updated": "2025-04-13T12:18:35.0371414Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

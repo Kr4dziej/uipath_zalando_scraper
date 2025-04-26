@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Buty i odzież online na Zalando. Moda damska, męska i dziecięca",
+  "Type": "App",
+  "Id": "t8eEVG3eEkmR_6ze8NkuMw",
+  "Reference": "SDodu7ecRkSmjJSqHGi_SA/t8eEVG3eEkmR_6ze8NkuMw",
+  "Created": "2025-04-13T12:20:44.1406815Z",
+  "Updated": "2025-04-13T12:20:44.1406815Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
