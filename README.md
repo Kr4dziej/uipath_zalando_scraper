@@ -1,0 +1,1 @@
+The aim of the project was to create a robot using UiPath that scrapes product data from an online shop. The products we want to extract data from are specified in an Excel file, which is also used for output data.
