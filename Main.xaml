@@ -111,6 +111,10 @@
       <AssemblyReference>Microsoft.VisualBasic.Forms</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
       <AssemblyReference>System.Text.RegularExpressions</AssemblyReference>
+      <AssemblyReference>System.IO.FileSystem.Watcher</AssemblyReference>
+      <AssemblyReference>System.IO.Packaging</AssemblyReference>
+      <AssemblyReference>System.IO.FileSystem.AccessControl</AssemblyReference>
+      <AssemblyReference>System.IO.FileSystem.DriveInfo</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <sap:WorkflowViewStateService.ViewState>
@@ -121,7 +125,11 @@
   </sap:WorkflowViewStateService.ViewState>
   <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="899.2,2716" sap2010:WorkflowViewState.IdRef="Sequence_2">
     <Sequence.Variables>
-      <Variable x:TypeArguments="x:String" Default="C:\Users\kamil\OneDrive\Desktop\Project" Name="ProjectPath" />
+      <Variable x:TypeArguments="x:String" Name="ProjectPath">
+        <Variable.Default>
+          <VisualBasicValue x:TypeArguments="x:String" ExpressionText="Path.Combine(Environment.CurrentDirectory, &quot;excel_files&quot;)" />
+        </Variable.Default>
+      </Variable>
       <Variable x:TypeArguments="x:String" Name="Now" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
@@ -164,7 +172,7 @@
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="603.2,201.6" sap2010:WorkflowViewState.IdRef="ReadRangeX_1" Range="[Excel.Sheet(&quot;Products2&quot;)]" SaveTo="[Products]" />
+                    <ueab:ReadRangeX DisplayName="Read Range" sap:VirtualizedContainerService.HintSize="603.2,201.6" sap2010:WorkflowViewState.IdRef="ReadRangeX_1" Range="[Excel.Sheet(&quot;Products1&quot;)]" SaveTo="[Products]" />
                     <uix:NApplicationCard AttachMode="ByInstance" CloseMode="IfOpenedByAppBrowser" DisplayName="Chrome Buty i odzież online na Zalando. Moda" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="603.2,1855.2" sap2010:WorkflowViewState.IdRef="NApplicationCard_5" InteractionMode="DebuggerApi" OpenMode="Always" ScopeGuid="c81174c2-8293-41cd-8a53-fcf1e47b371e" Version="V2">
                       <uix:NApplicationCard.Body>
                         <ActivityAction x:TypeArguments="x:Object">
